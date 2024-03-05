@@ -1,5 +1,5 @@
-title = "Long Toots and Deep Skeets"
-baseURL = 'https://www.lonestarmensch.ink'
+title = "Premium Guild Wars 2 Fanfiction"
+baseURL = 'https://www.talesfromthecrip.me/'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
@@ -59,7 +59,7 @@ disqusShortname = ''
     weight = 30
 
 [Languages.en-gb.params]
-  sitename = "lonestarmensch.ink"
+  sitename = "talesfromthecrip.me"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
